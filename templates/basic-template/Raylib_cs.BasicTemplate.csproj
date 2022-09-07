@@ -11,4 +11,8 @@
     <PackageReference Include="Raylib-cs" Version="4.0.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Using Include="System.Numerics" />
+  </ItemGroup>
+
 </Project>
