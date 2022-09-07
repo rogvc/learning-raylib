@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Rogerio Cruz",
+  "classifications": [ "raylib", "Console" ],
+  "identity": "Raylib-cs.BasicTemplate",
+  "name": "Raylib-cs: basic template",
+  "shortName": "raylibbasic",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "Raylib_cs.BasicTemplate",
+  "preferNameDirectory":true
+}
