@@ -1,7 +1,6 @@
 ﻿using static Raylib_cs.Raylib;
 using static Raylib_cs.Color;
 using static Raylib_cs.KeyboardKey;
-using System.Numerics;
 
 const int screenWidth = 800;
 const int screenHeight = 450;
