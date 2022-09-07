@@ -4,10 +4,10 @@
 using static Raylib_cs.Raylib;
 using static Raylib_cs.Color;
 
-const int screenX = 800;
-const int screenY = 450;
+const int screenWidth = 800;
+const int screenHeight = 450;
 
-InitWindow(screenX, screenY, "raylib [core] example - basic window");
+InitWindow(screenWidth, screenHeight, "raylib [core] example - basic window");
 
 SetTargetFPS(60); // Set target FPS (maximum)
 
