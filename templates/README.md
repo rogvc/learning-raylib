@@ -1,12 +1,12 @@
-# Raylib-cs Template
+# Raylib-cs Templates
 
-Use this template if you want to create a new raylib project using c# and dotnet.
+Use these templates if you want to create a new raylib project using c# and dotnet.
 
 To install the template:
 
 ```pwsh
 # from project root
-cd template
+cd templates/basic-template
 dotnet new --install ./
 ```
 
@@ -16,4 +16,4 @@ To create a new project from the template:
 dotnet new raylibstarter
 ```
 
-In the future, I plan on improving this template, turning this into a template package, and then uploading it to NuGet .
+In the future, I plan on improving these templates, turning them into a template package, and then uploading it to NuGet.
