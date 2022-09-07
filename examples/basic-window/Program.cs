@@ -13,27 +13,12 @@ SetTargetFPS(60); // Set target FPS (maximum)
 
 while (!WindowShouldClose()) // Detect window close button or ESC key
 {
-    // Update
-    //--------------------------------------------------------------------------
-
-    // TODO: Update your variables here
-
-    //--------------------------------------------------------------------------
-
-    // Draw
-    //--------------------------------------------------------------------------
-
     BeginDrawing();
+
     ClearBackground(RAYWHITE);
     DrawText("Congrats! You created your first window!", 190, 200, 20, GRAY);
-    EndDrawing();
 
-    //--------------------------------------------------------------------------
+    EndDrawing();
 }
 
-// De-Initialization
-//--------------------------------------------------------------------------------------
-
 CloseWindow();        // Close window and OpenGL context
-
-//--------------------------------------------------------------------------------------
